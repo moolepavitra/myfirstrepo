@@ -1,0 +1,11 @@
+Linux commands are instructions entered into a command-line interface (CLI) or terminal to interact with the operating system and perform various tasks. They are fundamental for managing files, directories, processes, and the system itself.
+Common Categories of Linux Commands:
+File and Directory Management:
+ls: Lists directory contents.
+cd: Changes the current directory.
+pwd: Prints the current working directory.
+mkdir: Creates a new directory.
+rmdir: Removes an empty directory.
+cp: Copies files or directories.
+mv: Moves or renames files or directories.
+rm: Removes files or directories.
